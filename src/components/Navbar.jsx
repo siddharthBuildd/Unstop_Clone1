@@ -2,7 +2,7 @@ import React from "react";
 import "../styles/navbar.css";
 import { AiOutlineSearch } from "react-icons/ai";
 import { NavLink } from "react-router-dom";
-import logo from "../assets/BROCOD.png";
+import logo from "../assets/BROCODES_new.png";
 
 const Navbar = () => {
   return (
